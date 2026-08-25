@@ -300,7 +300,9 @@ Here are some ideas to get you started:
       <h1><b>"Embrace the mess. That's where the good stuff lives."</b></h1>
       <p><i>Only Murders in the Building (S01E04)</i> 🎬</p>
       <br>
-      <code><b>STATUS:</b> 🟢 Building Chaos</code> &nbsp;|&nbsp; <code><b>ENVIRONMENT:</b> 🛠️ Production</code>
+      <code><b>STATUS:</b> 🟢 Building Chaos</code>
+      &nbsp;|&nbsp;
+      <code><b>ENVIRONMENT:</b> 🛠️ Production</code>
       <br><br>
     </td>
   </tr>
@@ -312,14 +314,10 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" bgcolor="#0d1117">
       <br>
-      <code><b>🐛 WARNING:</b> Clean code is a process, chaos is the raw material.</code>
-      <br>
-      <table width="90%">
-        <tr>
-          <td height="3" bgcolor="#f85149"></td>
-        </tr>
-      </table>
-      <br>
+      <ins>
+        <b>🐛 WARNING: Clean code is a process, chaos is the raw material.</b>
+      </ins>
+      <br><br>
     </td>
   </tr>
 </table>
