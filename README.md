@@ -222,6 +222,42 @@ Here are some ideas to get you started:
 > **"Embrace the mess. That's where the good stuff lives."**
 > — _Only Murders in the Building (S01E04)_
 
+#2redo2
+<div align="center">
+
+<table width="85%" style="max-width: 650px; border-collapse: collapse; border: none;">
+  <!-- BLOQUE 1: VERDE (Fondo nativo diff de GitHub) -->
+  <tr>
+    <td bgcolor="#1f2c20" style="padding: 12px 20px; border: 1px solid #2ea44f; border-radius: 6px; text-align: left; font-family: monospace;">
+      <span style="color: #3fb950; font-weight: bold;">+ 🚀 [SYSTEM RUNTIME]: LOADING CORE PHILOSOPHY...</span>
+    </td>
+  </tr>
+  <!-- Espacio entre bloques -->
+  <tr height="10"><td></td></tr>
+  <!-- BLOQUE 2: GRIS CENTRAL (Fondo nativo de código de GitHub) -->
+  <tr>
+    <td bgcolor="#161b22" style="padding: 20px; border: 1px solid #30363d; border-radius: 6px; text-align: left; font-family: monospace; line-height: 1.6;">
+ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ <br><br>
+ &nbsp;&nbsp;&nbsp;<span style="color: #ffaa33; font-weight: bold;">[⚙️ LOG]:</span> <span style="color: #e2e8f0; font-weight: bold;">"Embrace the mess. That's where the good stuff lives."</span>
+ <br><br>
+ &nbsp;&nbsp;&nbsp;<span style="color: #58a6ff; font-weight: bold;">[📍 REF]:</span> Cinda Canning // Only Murders in the Building (S01E04)
+ <br><br>
+ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+    </td>
+  </tr>
+  <!-- Espacio entre bloques -->
+  <tr height="10"><td></td></tr>
+  <!-- BLOQUE 3: ROJO (Fondo nativo diff de GitHub) -->
+  <tr>
+    <td bgcolor="#2c1f21" style="padding: 12px 20px; border: 1px solid #f85149; border-radius: 6px; text-align: left; font-family: monospace;">
+      <span style="color: #f85149; font-weight: bold;">- 🐛 WARNING: Clean code is a process, chaos is the raw material.</span>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 #redo 2
 
 <div align="center">
