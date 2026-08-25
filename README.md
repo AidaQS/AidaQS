@@ -306,7 +306,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-#opredo
+
 <div align="center">
 
 | ⚠️ ━━━ SYSTEM WARNING ━━━ ⚠️ |
@@ -323,3 +323,33 @@ Here are some ideas to get you started:
 
 
 Last Edited on: 25/08/2026
+
+#opnew
+<div align="center">
+
+### `// MISSION STATEMENT`
+# **"Embrace the mess. That's where the good stuff lives."**
+*Only Murders in the Building (S01E04)* 🎬
+
+***
+
+| ⚠️ ━━━ SYSTEM WARNING ━━━ ⚠️ |
+| :---: |
+| <br> **"Clean code is a process."** <br><br> *Chaos is the raw material.* <br><br> |
+
+</div>
+
+```shell
+[ STATUS ] ████████████████████
+
+⚙ SYSTEM: UNSTABLE   //   CHAOS: ENABLED
+
+STATUS: 🟢 Building Chaos   //   ENVIRONMENT: 🛠️ Production
+```
+
+<br>
+
+<div align="right">
+
+*Last Edited on: 25/08/2026*
+</div>
