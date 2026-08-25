@@ -306,9 +306,56 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-```diff
-🐛 WARNING: Clean code is a process, chaos is the raw material.
-```
+#opredo
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#0d1117">
+      <br>
+
+      <code>
+        <font color="#f85149">
+          ⚠️ ━━━ SYSTEM WARNING ━━━ ⚠️
+        </font>
+      </code>
+
+      <br><br>
+
+      <h3>
+        <font color="#f85149">
+          "Clean code is a process."
+        </font>
+      </h3>
+
+      <p>
+        <b>Chaos is the raw material.</b>
+      </p>
+
+      <br>
+
+      <code>
+        <font color="#8b949e">
+          [ STATUS ]
+        </font>
+        <font color="#f85149">
+          ████████████████████
+        </font>
+      </code>
+
+      <br><br>
+
+      <code>
+        <font color="#8b949e">⚙ SYSTEM:</font>
+        <font color="#f85149"><b> UNSTABLE</b></font>
+        &nbsp; // &nbsp;
+        <font color="#8b949e">CHAOS:</font>
+        <font color="#3fb950"><b> ENABLED</b></font>
+      </code>
+
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 
 
