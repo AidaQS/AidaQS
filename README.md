@@ -306,6 +306,21 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#2d1111">
+      <br>
+      <span style="color:#f85149; text-decoration: underline;">
+        <b>🐛 WARNING: Clean code is a process, chaos is the raw material.</b>
+      </span>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
