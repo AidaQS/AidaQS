@@ -223,42 +223,47 @@ Here are some ideas to get you started:
 > — _Only Murders in the Building (S01E04)_
 
 #redo 2
-<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background: #0d1117; color: #c9d1d9;">
+<table>
+<tr>
+<td bgcolor="#ddf4e4">
 
-<div style="color: #58a6ff; font-weight: bold; font-size: 16px;">
-🚀 [SYSTEM RUNTIME]: LOADING CORE PHILOSOPHY...
-</div>
+🚀 <code>[SYSTEM RUNTIME]: LOADING CORE PHILOSOPHY...</code>
 
-<br>
+</td>
+</tr>
+</table>
 
-<div style="border-left: 3px solid #8b949e; padding: 10px 14px; background: #161b22; border-radius: 4px;">
+<table>
+<tr>
+<td>
 
-<div style="color: #8b949e;">
-⚙️ <strong>[LOG]</strong>
-</div>
-
-<div style="color: #f0f6fc; font-style: italic;">
-"Embrace the mess. That's where the good stuff lives."
-</div>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <br>
 
-<div style="color: #8b949e;">
-📍 <strong>[REF]</strong> Cinda Canning // <i>Only Murders in the Building</i> (S01E04)
-</div>
+🔧 <code>[ LOG ]:</code> <i>"Embrace the mess. That's where the good stuff lives."</i>
 
-</div>
+<br><br>
+
+📍 <code>[ REF ]:</code> Cinda Canning // <i>Only Murders in the Building</i> (S01E04)
 
 <br>
 
-<div style="border: 1px solid #f85149; border-radius: 6px; padding: 10px 14px; background: #1c1010; color: #f85149;">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🐛 <strong>WARNING:</strong>
-<span style="color: #c9d1d9;">Clean code is a process, chaos is the raw material.</span>
+</td>
+</tr>
+</table>
 
-</div>
+<table>
+<tr>
+<td bgcolor="#ffebe9">
 
-</div>
+🐛 <code>WARNING:</code> Clean code is a process, chaos is the raw material.
+
+</td>
+</tr>
+</table>
 
 
  
