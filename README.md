@@ -306,14 +306,9 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<br>
-
-
-      '''diff
-        🐛 WARNING: Clean code is a process, chaos is the raw material.
-     
-
-
+```diff
+🐛 WARNING: Clean code is a process, chaos is the raw material.
+```
 
 
 
