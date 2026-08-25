@@ -223,32 +223,43 @@ Here are some ideas to get you started:
 > — _Only Murders in the Building (S01E04)_
 
 #redo 2
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background: #0d1117; color: #c9d1d9;">
 
-<div align="center">
+<div style="color: #58a6ff; font-weight: bold; font-size: 16px;">
+🚀 [SYSTEM RUNTIME]: LOADING CORE PHILOSOPHY...
+</div>
 
+<br>
 
-<!-- BLOQUE 1: RUNTIME (VERDE) -->
-<pre style="font-family: monospace; padding: 10px 20px; border-radius: 6px; background-color: #161b22; border: 1px solid #30363d; text-align: left; width: 80%; max-width: 650px; user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none;">
-<span style="color: #2ea44f; font-weight: bold;">+ 🚀 [SYSTEM RUNTIME]: LOADING CORE PHILOSOPHY...</span>
-</pre>
+<div style="border-left: 3px solid #8b949e; padding: 10px 14px; background: #161b22; border-radius: 4px;">
 
-<!-- BLOQUE 2: CITAS (GRIS LOGS) -->
-<pre style="font-family: monospace; padding: 20px; border-radius: 6px; background-color: #161b22; border: 1px solid #30363d; text-align: left; width: 80%; max-width: 650px; line-height: 1.6; margin: 10px 0; user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none;">
- ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+<div style="color: #8b949e;">
+⚙️ <strong>[LOG]</strong>
+</div>
 
-   <span style="color: #db6d28; font-weight: bold;">[⚙️ LOG]:</span> <span style="color: #e2e8f0; font-weight: bold;">"Embrace the mess. That's where the good stuff lives."</span>
-   
-   <span style="color: #0969da; font-weight: bold;">[📍 REF]:</span> Cinda Canning // Only Murders in the Building (S01E04)
-   
- ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-</pre>
+<div style="color: #f0f6fc; font-style: italic;">
+"Embrace the mess. That's where the good stuff lives."
+</div>
 
-<!-- BLOQUE 3: ADVERTENCIA (ROJO) -->
-<pre style="font-family: monospace; padding: 10px 20px; border-radius: 6px; background-color: #161b22; border: 1px solid #30363d; text-align: left; width: 80%; max-width: 650px; user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none;">
-<span style="color: #cf222e; font-weight: bold;">- 🐛 WARNING: Clean code is a process, chaos is the raw material.</span>
-</pre>
+<br>
+
+<div style="color: #8b949e;">
+📍 <strong>[REF]</strong> Cinda Canning // <i>Only Murders in the Building</i> (S01E04)
+</div>
 
 </div>
+
+<br>
+
+<div style="border: 1px solid #f85149; border-radius: 6px; padding: 10px 14px; background: #1c1010; color: #f85149;">
+
+🐛 <strong>WARNING:</strong>
+<span style="color: #c9d1d9;">Clean code is a process, chaos is the raw material.</span>
+
+</div>
+
+</div>
+
 
  
 #op2
