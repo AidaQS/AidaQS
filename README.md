@@ -222,6 +222,33 @@ Here are some ideas to get you started:
 > **"Embrace the mess. That's where the good stuff lives."**
 > — _Only Murders in the Building (S01E04)_
 
+#redo 2
+
+<div align="center">
+
+
+<!-- BLOQUE 1: RUNTIME (VERDE) -->
+<pre style="font-family: monospace; padding: 10px 20px; border-radius: 6px; background-color: #161b22; border: 1px solid #30363d; text-align: left; width: 80%; max-width: 650px; user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none;">
+<span style="color: #2ea44f; font-weight: bold;">+ 🚀 [SYSTEM RUNTIME]: LOADING CORE PHILOSOPHY...</span>
+</pre>
+
+<!-- BLOQUE 2: CITAS (GRIS LOGS) -->
+<pre style="font-family: monospace; padding: 20px; border-radius: 6px; background-color: #161b22; border: 1px solid #30363d; text-align: left; width: 80%; max-width: 650px; line-height: 1.6; margin: 10px 0; user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none;">
+ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+   <span style="color: #db6d28; font-weight: bold;">[⚙️ LOG]:</span> <span style="color: #e2e8f0; font-weight: bold;">"Embrace the mess. That's where the good stuff lives."</span>
+   
+   <span style="color: #0969da; font-weight: bold;">[📍 REF]:</span> Cinda Canning // Only Murders in the Building (S01E04)
+   
+ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+</pre>
+
+<!-- BLOQUE 3: ADVERTENCIA (ROJO) -->
+<pre style="font-family: monospace; padding: 10px 20px; border-radius: 6px; background-color: #161b22; border: 1px solid #30363d; text-align: left; width: 80%; max-width: 650px; user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none;">
+<span style="color: #cf222e; font-weight: bold;">- 🐛 WARNING: Clean code is a process, chaos is the raw material.</span>
+</pre>
+
+</div>
 
  
 #op2
