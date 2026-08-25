@@ -310,15 +310,20 @@ Here are some ideas to get you started:
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" bgcolor="#2d1111">
+    <td align="center" bgcolor="#0d1117">
       <br>
-      <span style="color:#f85149; text-decoration: underline;">
-        <b>🐛 WARNING: Clean code is a process, chaos is the raw material.</b>
-      </span>
-      <br><br>
+      <code><b>🐛 WARNING:</b> Clean code is a process, chaos is the raw material.</code>
+      <br>
+      <table width="90%">
+        <tr>
+          <td height="3" bgcolor="#f85149"></td>
+        </tr>
+      </table>
+      <br>
     </td>
   </tr>
 </table>
+
 
 
 
