@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Reactjs & React-Native** -->
 
-- 📫 How to reach me **saquinsol14@gmail.com** 
+- 📫 How to reach me **aquinsol14@gmail.com** 
   <!--
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
