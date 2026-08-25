@@ -13,7 +13,7 @@ Aida</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gi
 
 <br>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="450" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 
