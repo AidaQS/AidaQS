@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <!--
 - 📝 I regularly write articles on [xxxxx)
 
-- 💬 Ask me about **Reactjs & React-Native** -->
+- 💬 Ask me about **Cybersecurity** 
 <!--
 - 📫 How to reach me **xxx** 
   -->
