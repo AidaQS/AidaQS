@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Kotlin.  
 <!--
 - 📝 I regularly write articles on [xxxxx)
-
+-->
 - 💬 Ask me about **Cybersecurity** 
 <!--
 - 📫 How to reach me **xxx** 
