@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying at <a href="https://esei.uvigo.es/es/" target="blank">Escola Superior de Enxeñaría Informática </a> at <a href="https://www.uvigo.gal/es" target="blank">Uvigo</a>
-
-- 🌱 I’m currently Working on Mobile App
-
+- 🔭 I’m currently studying at <a href="https://esei.uvigo.es/es/" target="blank">Escola Superior de Enxeñaría Informática </a> at <a href="https://www.uvigo.gal/es" target="blank">Uvigo</a>.
+<!--
+- 🌱 I’m currently Working on Mobile App.
+-->
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Kotlin  
+- 🌱 I’m currently learning Kotlin.  
 <!--
 - 📝 I regularly write articles on [xxxxx)
 
